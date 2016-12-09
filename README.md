@@ -6,32 +6,32 @@ This repository contains the source-code for TDDM_PAC2 application. It's an hybr
 
 To setup the environment you should follow this steps:
 
-1. Clone the repository
+### Clone the repository
 ```bash
 $ git clone https://github.com/uocappseimt/TDDM_PAC2
 ```
 
-2. Read [Installing Ionic and its Dependencies](http://ionicframework.com/docs/guide/installation.html)
+### Read [Installing Ionic and its Dependencies](http://ionicframework.com/docs/guide/installation.html)
 ```bash
 $ git clone https://github.com/uocappseimt/TDDM_PAC2
 ```
 
-3. Install nodejs [nodejs](https://nodejs.org/en/download/)
+### Install nodejs [nodejs](https://nodejs.org/en/download/)
 ```bash
 $ git clone https://github.com/uocappseimt/TDDM_PAC2
 ```
 
-4. Install required packages
+### Install required packages
 ```bash
 $ sudo npm -g install ionic
 ```
 
-5. Install packages
+### Install packages
 ```bash
 $ npm install
 ```
 
-6. Start Ionic server
+### Start Ionic server
 ```bash
 $ ionic serve
 ```
