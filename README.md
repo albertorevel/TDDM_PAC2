@@ -13,7 +13,7 @@ $ git clone https://github.com/uocappseimt/TDDM_PAC2
 
 2. [Read Installing Ionic and its Dependencies](http://ionicframework.com/docs/guide/installation.html)
 
-3. Install nodejs [https://nodejs.org/en/download/](nodejs)
+3. Install nodejs [nodejs](https://nodejs.org/en/download/)
 
 4. Install required packages
 ```bash
