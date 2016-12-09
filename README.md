@@ -14,20 +14,20 @@ $ git clone https://github.com/uocappseimt/TDDM_PAC2
 ### Read [Installing Ionic and its Dependencies](http://ionicframework.com/docs/guide/installation.html)
 
 
-### Install nodejs [nodejs](https://nodejs.org/en/download/)
+#### Install nodejs [nodejs](https://nodejs.org/en/download/)
 
 
-### Install required packages
+#### Install required packages
 ```bash
 $ sudo npm -g install ionic
 ```
 
-### Install packages
+#### Install packages
 ```bash
 $ npm install
 ```
 
-### Start Ionic server
+#### Start Ionic server
 ```bash
 $ ionic serve
 ```
