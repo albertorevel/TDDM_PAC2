@@ -11,19 +11,21 @@ To setup the environment you should follow this steps:
 $ git clone https://github.com/uocappseimt/TDDM_PAC2
 ```
 
-2. Install nodejs ([https://nodejs.org/en/download/](nodejs) )
+2.- ([http://ionicframework.com/docs/guide/installation.html](Read Installing Ionic and its Dependencies))
 
-2. Install required packages
+3. Install nodejs ([https://nodejs.org/en/download/](nodejs) )
+
+4. Install required packages
 ```bash
 $ sudo npm -g install ionic
 ```
 
-3. Install packages
+5. Install packages
 ```bash
 $ npm install
 ```
 
-4. Start Ionic server
+6. Start Ionic server
 ```bash
 $ ionic serve
 ```
